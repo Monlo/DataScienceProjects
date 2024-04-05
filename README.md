@@ -14,7 +14,7 @@
 
   <h2>Project Directory</h2>
 
-  <p>I created this repository to share my Data Science Projects and learning process. Here's a brief overview of the projects included in this repository:</p>
+  <p>Here's a brief overview of the projects included in this repository:</p>
   
   <ol>
     <li>
