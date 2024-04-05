@@ -18,7 +18,7 @@
   
   <ol>
     <li>
-      <h3><a href="https://github.com/Monlo/DataScienceProjects/tree/main/01_MachineLearning_WeatherPrediction">Using Machine Learning to Predict Weather</a></h3>
+      <h3><a href="https://github.com/Monlo/DataScienceProjects/tree/main/01_MachineLearning_WeatherPrediction%20">Using Machine Learning to Predict Weather</a></h3>
       <p><strong>Description:</strong> This project is part of my DataQuest Portfolio and aims to predict local weather using machine learning, using weather data from a station at the Oakland International Airport. </p>
       <p><strong>Tools/Technologies:</strong> Python, Pandas, Scikit-learn (Sklearn).</p>
       <p><strong>Results:</strong> In this project, I utilized Ridge regression, a linear regression technique with regularization, for predicting maximum temperature based on historical weather data. The Mean Absolute Error of the first model was approximately 3.4 degrees Fahrenheit. However, by including more predictors in the model, the MAE decreased to approximately 3.3 degrees Fahrenheit.</p>
