@@ -6,7 +6,7 @@
 </head>
 <body>
 
-  <h1>Data Science Projects Repository</h1>
+  <h1>Data Science Projects</h1>
   
   <h2>About Me</h2>
   
