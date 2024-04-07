@@ -10,7 +10,7 @@
   
   <h2>About Me</h2>
   
-  <p>I'm Monserrat Lopez! I am a Mexican economist currently pursuing a Master’s in Data Science for Public Policy at the Hertie School. I have over six years of professional experience conducting data-driven research and policy analysis. My passion is to use data for social good and to find policy solutions. I'm in a constant learning process and in this repository I want to save and share my learning journey and my work.</p>
+  <p>I'm Monserrat Lopez! I am a Mexican economist currently pursuing a Master’s in Data Science for Public Policy at the Hertie School. I have over six years of professional experience conducting data-driven research and policy analysis. My passion is to use data for social good and to find policy solutions. In this repository I want to save and share my Data Science learning journey and my work.</p>
 
   <h2>Project Directory</h2>
 
